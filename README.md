@@ -29,3 +29,30 @@ Users can clone this repository to set up the project locally or deploy it on a 
  <video src="https://github.com/user-attachments/assets/bed68a04-fc01-4d43-aa3f-c30a2e046b24" type="video/mp4"> 
 </video>
 </div>
+
+## Employee Registration and Management Form
+This project is a Employee Registration and Management System built with PHP, MySQL, and Bootstrap. The application allows users to register, view, update, and delete Employee information through an intuitive and responsive user interface.
+
+## Features
+- **Employee Registration**: Users can register employee by entering their details (Name, Contact Number, and role).
+- **Validation**: The form includes robust client-side and server-side validation to ensure data accuracy:
+All fields are mandatory.
+Name must consist of at least two words.
+Age must be between 18 and 100.
+Contact number must be exactly 10 digits.
+- **Update Functionality**: Registered student details can be updated through a dedicated update form.
+- **Delete Functionality**: Users can delete student records.
+- **Dynamic Table**: All registered students are displayed in a responsive table with action buttons for updating and deleting records.
+## Technologies Used
+- **Frontend**:
+HTML5 for structure.
+Bootstrap 5 for responsiveness and styling.
+JavaScript for user interactions.
+- **Backend**:
+PHP for server-side processing.
+MySQL for database management.
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/0d1ab5a5-b38e-4886-b904-07284b362ee3" type="video/mp4"> 
+</video>
+</div>
