@@ -30,7 +30,8 @@ Users can clone this repository to set up the project locally or deploy it on a 
 </video>
 </div>
 
-## Employee Registration and Management Form
+<h2 align="center">3. Employee Registration and Management Form </h2>
+
 This project is a Employee Registration and Management System built with PHP, MySQL, and Bootstrap. The application allows users to register, view, update, and delete Employee information through an intuitive and responsive user interface.
 
 ## Features
@@ -57,6 +58,7 @@ MySQL for database management.
 </video>
 </div>
 
+<h2 align="center">4. INSERT & GET API using PHP </h2>
 
 <div align="center">
  <video src="https://github.com/user-attachments/assets/8657a7d3-8099-41c6-8a21-1f66f3749ef5" type="video/mp4"> 
