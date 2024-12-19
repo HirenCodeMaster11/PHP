@@ -64,3 +64,10 @@ MySQL for database management.
  <video src="https://github.com/user-attachments/assets/8657a7d3-8099-41c6-8a21-1f66f3749ef5" type="video/mp4"> 
 </video>
 </div>
+
+<h2 align="center">5. All In One (GET,POST,PUT,DELETE) using PHP </h2>
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/4cdbd0b1-7d23-48c1-8042-a0aecc57df07" type="video/mp4"> 
+</video>
+</div>
